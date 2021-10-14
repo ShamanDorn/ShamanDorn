@@ -7,5 +7,5 @@
 
 
 [mobs][]
-[website][]
-[forest][]
+[website][https://shamandorn.github.io/]
+[forest][https://discord.gg/hk6vREN]
