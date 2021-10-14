@@ -6,6 +6,6 @@
 - 😄 I use they/them pronouns.
 
 
-[mobs][]
+[mobs][www.google.com]
 [website][https://shamandorn.github.io/]
 [forest][https://discord.gg/hk6vREN]
